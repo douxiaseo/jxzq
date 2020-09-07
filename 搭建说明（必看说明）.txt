@@ -30,7 +30,7 @@
         打开浏览器 访问 http://域名/spider.html 即可查看记录
 
 四、目录说明
-
+	            public/cache/       缓存目录
 		    public/domains/	不要带www，不限文件个数，随便命名，随机调用，一行一个，每个文档控制在300K以内。
 		    public/duankou/	计算机端口，生成数字用，默认即可
 		    public/ipaddress/	IP进制，随机调用，一行一个，每个文档控制在300K以内。
@@ -42,12 +42,13 @@
                     public/push-open-close.txt     蜘蛛推送开启与关闭：on为开启推送；off为关闭推送
                     public/friendlink-open-close.txt   友情链接蜘蛛池开启与关闭：on为开启蜘蛛池；off为关闭蜘蛛池
                     public/tongji-open-close.txt   统计开启与关闭：on为开启统计；off为关闭统计
-                    public/baiduspider-open-close.txt  百度蜘蛛来访缓存开启与关闭
-                    public/360spider-open-close.txt    360蜘蛛来访缓存开启与关闭
-                    public/sogouspider-open-close.txt  搜狗蜘蛛来访缓存开启与关闭
-                    public/yisouspider-open-close.txt  神马蜘蛛来访缓存开启与关闭
-                    public/googlespider-open-close.txt 谷歌蜘蛛来访缓存开启与关闭
-                    public/otherspider-open-close.txt  其他蜘蛛（包括人为访问）来访缓存开启与关闭
+                    public/baiduspider-open-close.txt  百度蜘蛛来访缓存开启与关闭：Baidu为开启；off为关闭
+                    public/360spider-open-close.txt    360蜘蛛来访缓存开启与关闭： 360为开启；off为关闭
+                    public/sogouspider-open-close.txt  搜狗蜘蛛来访缓存开启与关闭：Sogou为开启；off为关闭
+                    public/yisouspider-open-close.txt  神马蜘蛛来访缓存开启与关闭：Yisou为开启；off为关闭
+                    public/googlespider-open-close.txt 谷歌蜘蛛来访缓存开启与关闭：Google为开启；off为关闭
+                    public/otherspider-open-close.txt  其他蜘蛛（包括人为访问）来访缓存开启与关闭：Other为开启；off为关闭
+                    public/tradition-open-close.txt    页面汉字繁体简体切换,繁体:ft 简体:jt 默认:default
                     
                     public/info/ 目录下为客户资料，随机获取客户资料
                                               webname      网站标题，不限文件个数，随便命名，随机调用，一行一个，每个文档控制在300K以内。
@@ -55,7 +56,8 @@
                                               description  网站描述
                                               jump         跳转js，不限文件个数，随便命名，随机调用。
                                          
-                    meiti/   ---->   meiti.txt   放媒体地址，不限文件个数，随便命名，随机调用，一行一个，每个文档控制在300K以内。
+                    meiti/   ---->   one-to-one-meiti.txt   一对一镜像，左边是域名，右边是目标站，随机调用，一行一个，每个文档控制在300K以内。
+                                     public-meiti.txt       随机镜像目标站，随机调用，一行一个，每个文档控制在300K以内。
                     
                     rule/  镜像规则配置，标签自由组合
                           title.txt         网站标题标签规则配置
@@ -63,8 +65,11 @@
                           description.txt   meta标签description描述规则设置
                           preg_replace.txt  指定字符替换规则
                           keywords.txt      meta标签keywords关键字规则设置
-                          url.txt           全站URL重写规则设置
-                          side.txt          干扰字符设置
+                          one-to-one-url.txt    一对一镜像URL重写规则设置
+                          public-url.txt        泛域名镜像URL重写规则设置
+                          side.txt          汉字干扰字符设置
+                          interfere.txt     网页源代码干扰码设置
+                          preg_replace.txt  页面内容指定替换
 
                     public/friendlink/ ---->   友情链接蜘蛛池，放入需要收录的URL地址，不限文件个数，随便命名，随机调用，一行一个，每个文档控制在300K以内。     
 

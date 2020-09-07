@@ -1,0 +1,2 @@
+localhost|http://www.mwenting.com
+127.0.0.1|http://www.duanmeiwen.com

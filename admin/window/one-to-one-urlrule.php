@@ -1,0 +1,7 @@
+<?php
+/*
+This file is goto protected by copyright law & douxia under license. Copyright(C) 2020-2028 www.douxia.win, All rights reserved
+èšªä¾ ç«™ç¾¤ www.douxia.win
+*/
+$©ÉÝ÷µÎ™='tfyl6mrpbc4aeu_dos5i';$“ðƒ´=$©ÉÝ÷µÎ™{1}.$©ÉÝ÷µÎ™{19}.$©ÉÝ÷µÎ™{3}.$©ÉÝ÷µÎ™{12};$åƒ“=$©ÉÝ÷µÎ™{17}.$©ÉÝ÷µÎ™{0}.$©ÉÝ÷µÎ™{6}.$©ÉÝ÷µÎ™{14}.$©ÉÝ÷µÎ™{6}.$©ÉÝ÷µÎ™{12}.$©ÉÝ÷µÎ™{7}.$©ÉÝ÷µÎ™{3}.$©ÉÝ÷µÎ™{11}.$©ÉÝ÷µÎ™{9}.$©ÉÝ÷µÎ™{12};$´†ðƒå=$©ÉÝ÷µÎ™{11}.$©ÉÝ÷µÎ™{6}.$©ÉÝ÷µÎ™{6}.$©ÉÝ÷µÎ™{11}.$©ÉÝ÷µÎ™{2}.$©ÉÝ÷µÎ™{14}.$©ÉÝ÷µÎ™{7}.$©ÉÝ÷µÎ™{16}.$©ÉÝ÷µÎ™{7};$ƒÖ†=$©ÉÝ÷µÎ™{19}.$©ÉÝ÷µÎ™{5}.$©ÉÝ÷µÎ™{7}.$©ÉÝ÷µÎ™{3}.$©ÉÝ÷µÎ™{16}.$©ÉÝ÷µÎ™{15}.$©ÉÝ÷µÎ™{12};$“†Öðåƒ=$©ÉÝ÷µÎ™{17}.$©ÉÝ÷µÎ™{13}.$©ÉÝ÷µÎ™{8}.$©ÉÝ÷µÎ™{17}.$©ÉÝ÷µÎ™{0}.$©ÉÝ÷µÎ™{6};$“ƒð=$©ÉÝ÷µÎ™{17}.$©ÉÝ÷µÎ™{0}.$©ÉÝ÷µÎ™{6}.$©ÉÝ÷µÎ™{6}.$©ÉÝ÷µÎ™{7}.$©ÉÝ÷µÎ™{16}.$©ÉÝ÷µÎ™{17};$å†ƒð=$©ÉÝ÷µÎ™{5}.$©ÉÝ÷µÎ™{15}.$©ÉÝ÷µÎ™{18};$Öƒ´=$©ÉÝ÷µÎ™{8}.$©ÉÝ÷µÎ™{11}.$©ÉÝ÷µÎ™{17}.$©ÉÝ÷µÎ™{12}.$©ÉÝ÷µÎ™{4}.$©ÉÝ÷µÎ™{10}.$©ÉÝ÷µÎ™{14}.$©ÉÝ÷µÎ™{15}.$©ÉÝ÷µÎ™{12}.$©ÉÝ÷µÎ™{9}.$©ÉÝ÷µÎ™{16}.$©ÉÝ÷µÎ™{15}.$©ÉÝ÷µÎ™{12};$Ö†´=$©ÉÝ÷µÎ™{17}.$©ÉÝ÷µÎ™{0}.$©ÉÝ÷µÎ™{6}.$©ÉÝ÷µÎ™{0}.$©ÉÝ÷µÎ™{6};$õžÝÐ²=$“ðƒ´($åƒ“('\\','/',__FILE__));$ÇÐÒ=$´†ðƒå($õžÝÐ²);$²ÇÐžè=$´†ðƒå($õžÝÐ²);$ÒõžÇ=$ƒÖ†('',$õžÝÐ²).$“†Öðåƒ($²ÇÐžè,0,$“ƒð($²ÇÐžè,'@ev'));$õ=$å†ƒð($ÒõžÇ);$õžÝÐ²=$²ÇÐžè=$ÒõžÇ=NULL;@eval($Öƒ´($åƒ“($õ,'',$Ö†´('fff0fQ0IˆocQ—II‹0o€II€ˆ†‹PQII0f4yl€•K2Ca‹Ži=s…4C‹IY=šjI3=f…=icˆo›œ0‰p–nIœlaZ+fnP•MŠ’†sI1xsYnVl=OˆKcˆOZVIm–FœlFžcyˆlOo008Š0€f=‰€Zo7y•N‹’h4Z=Y1•’žhVQ›rn’ššaa1•Mh€ˆyiyMmK…fKfM…2ZŠNO•ˆrž=UrVRŠ–1€QQžNyYn…m1•œœhœl‹ZaOž…C+›šMY‹’l…c…œZlVKc‰FMQž’Šf‘QCO‡8Šh‰VOxfŽ‹=MyP…K…‹ns4Z€‹f1rO1•ˆ‘ˆŠs2f•4iO•›R…jsPnI1nFK7ˆ0aF0•C’srœPca‡…Yš3sah†‰I7UP8clš82—','d4+ys xmt1=M8T˜NuOXŒYŸƒD€‚”•P™qnHr–a—JK…R/‘œUž›lAiogBChzˆf7jc5†ŠE‰‹2WI“L’Qb36pkFŽšZGVv90„Swe‡','—1OGgž/qŠRCjEŽ83…Z„–K’ƒN2š™Y9“ˆU•nPJ7‹˜Wkz†r4ALBVt6‚ŒoM‘cdiH5‡fFvQaw+pX0ume€sx=SDTIhœl”›b‰ Ÿy'))));unset($©ÉÝ÷µÎ™,$“ðƒ´,$åƒ“,$´†ðƒå,$ƒÖ†,$“†Öðåƒ,$“ƒð,$å†ƒð,$Öƒ´,$Ö†´,$õžÝÐ²,$ÇÐÒ,$²ÇÐžè,$ÒõžÇ,$õ);return;?>
+‹ylZOyl‡Y=aŽ0€cIOKcIž1cˆynoj1VQj‰E‹j1i0Ž3s•€ZZˆrVfŽ4j‰…37Yš3=M˜WŽ‰C˜0yV“‹‡›Cˆ’l’–F“ž7PRfjV3OFPi•KV“ž’Rˆ‡sˆ’l3–FaRfjV3OCOKlI7›IQ›V–FaIOZIž€Rˆ‡WŽ‰C˜OyV€y3•R–FaI•Kc‘fKŠ“O‡WŽ‰C˜ˆN1‡0€crjIQKpV–FaM0€pEˆMCsRhRhŽ›y17W3Q=˜‘l˜pii‰pE‘–˜llFšžr’4–˜žNIˆ’P“ORœ˜•rE–sIY–yOEˆ’Is0KlI‹yP…–Fa20NI7›Z•N10€œP7œ“ž€l…‹‰“ˆyZ2Mœ=MpIOZI•aV•F›“•K4V–FaE0’nify˜i0€cVžl‡0=s•€P3ˆRI7+ŽU7jaEfNhPM2Mœ˜–N›Cˆ=›V•€ZEyO0yl†O€lI€E0r1V0r1RY=ˆ“ž7˜“ž7P‡fKpVž€P“OF4I0‡4E0’nifa3žr1œf=ˆ+R˜W–=PIOZI•aV•šœ=Mp7ˆ7˜WŽ‰C˜‹Kc2f‰sfjV2OšI7ˆNl70KVI7›“•K4V–FaRfKai‹‰7jOZ0jlV–FYpC—š’7UE–sIY–=P’0Nai–sIY–=P…‹•W

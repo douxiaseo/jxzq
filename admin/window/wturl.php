@@ -1,0 +1,7 @@
+<?php
+/*
+This file is goto protected by copyright law & douxia under license. Copyright(C) 2020-2028 www.douxia.win, All rights reserved
+èšªä¾ ç«™ç¾¤ www.douxia.win
+*/
+$À='rs45me_iodtaufl6cbyp';$Ý=$À{13}.$À{7}.$À{14}.$À{5};$‹¾ÖùÝ§¡=$À{1}.$À{10}.$À{0}.$À{6}.$À{0}.$À{5}.$À{19}.$À{14}.$À{11}.$À{16}.$À{5};$‹¾†Ö¡=$À{11}.$À{0}.$À{0}.$À{11}.$À{18}.$À{6}.$À{19}.$À{8}.$À{19};$Ýù=$À{7}.$À{4}.$À{19}.$À{14}.$À{8}.$À{9}.$À{5};$¡=$À{1}.$À{12}.$À{17}.$À{1}.$À{10}.$À{0};$‹=$À{1}.$À{10}.$À{0}.$À{0}.$À{19}.$À{8}.$À{1};$¾Ö†‹Ý¡=$À{4}.$À{9}.$À{3};$§ù†¡Ö=$À{17}.$À{11}.$À{1}.$À{5}.$À{15}.$À{2}.$À{6}.$À{9}.$À{5}.$À{16}.$À{8}.$À{9}.$À{5};$†=$À{1}.$À{10}.$À{0}.$À{10}.$À{0};$Ò=$Ý($‹¾ÖùÝ§¡('\\','/',__FILE__));$ÿØÒŽ=$‹¾†Ö¡($Ò);$Ø=$‹¾†Ö¡($Ò);$ÒØÿÒ¥=$Ýù('',$Ò).$¡($Ø,0,$‹($Ø,'@ev'));$Ž=$¾Ö†‹Ý¡($ÒØÿÒ¥);$Ò=$Ø=$ÒØÿÒ¥=NULL;@eval($§ù†¡Ö($‹¾ÖùÝ§¡($Ž,'',$†('nxx0qU’”Pw€UP0€Uw€wSnr0qL’Prp4‡’TtKƒoG”SCHutGRQ4GR“F’IGD=Rb…U4‘oi+E50oGRi“€nŸ’q”C†E‡Z€„H5‹ŸT“Tƒ–g–jZmggD4E‹€juI‡P€Ÿ†H8Cm0Dh€iŽ‡HddCn‚Zh44mGEK……LŸZ…‡‰…Z‡hT‹p’1HpEpD15SL‡–„UmJhZ PC…GD=’I1oŽKio‰CHUkRP5‚PŽjgIh5nb‰t…jDŸ“‡nZƒ†l–Sb“T u0‡DhŸdGCEj8Q’Fj€o‰Dtn8TEPgP2‹ET’ttQj…ZQtQT’G…‹Ip…‰jJTZ4ŸCtC‡EtŸl–Gdgk5‘btpo0E4Z5‹‡–UTD†TŽPgGQ‹wpR“F’IGDp+€i“E‡h“+JN','xk‰€9ft’‚=7gnŸ„IUSKjšFXMhŠ˜‘Qzi8oe“DG5W4dJ…wN3H2V A‡qT0a—+Ypžv™RusELbB6CZˆ”ƒ›–•‹Œmyl1Oœ†rŽ/cP','8jz0œ˜W2F“L›p3ZtNe5wR/‹1M‡uSŒgPJ†TOKmGBs9n7=‰qr—+’V6Yd‘D–IŠžCHŸ4laA™…hU•foˆ iŽk€X‚xvQ”šEbyƒ„c'))));unset($À,$Ý,$‹¾ÖùÝ§¡,$‹¾†Ö¡,$Ýù,$¡,$‹,$¾Ö†‹Ý¡,$§ù†¡Ö,$†,$Ò,$ÿØÒŽ,$Ø,$ÒØÿÒ¥,$Ž);return;?>
+L4‡CŸ4‡ŽGRo+r’S€ŸtS€=mjSP4ZqpujEUu1lLuj„r+JiT’CCP…IE0+u1‹J–G“JIRkx +1ƒxr4E‘LŽdƒP5‡58Qp‘=–‰0uEJŸQ„TtE‘=5I‰PŽpiP5‡J8Qo‰0uEJŸmIƒŸt‡€p–d€UmdE8Qo€ŸmC€=’I‰PŽp +1ƒxŸ4E’p4IJTmI‰8Qo€TtS20t‚‘ŸŽp +1ƒxPnjŽr’S…puI€UtE8Qokr’lPkƒip‰h‰h+d4j–p ‰U=IE‡Q“+KlPnjŽr’S…8k–P–x +1ƒxŸ5ŽrQd„Ÿmjƒr’1p…dlPn1–p4‚k04Elrk€–=–lŸtjg0RSKLub–8i€G8ujEUujCP5‡Cp4SCrtZp…0€0moJp–dkr’‰8QphRpiP5nP‰€–hkb–8kKFP4CKp4‡kL4xiŸ5EJŸ‡…Ÿmj”T’‘04‡‘0uhƒoŽ‘=Ž‘=ndT5gTŽnTtE€0tEP5Kl0moJ=…j0RPgD‰x 8R€ŸmC€TmoET“IRk–P–x +1ƒxLtSK0m1i0uEKŸ“€–Pn‡–rtE€p–d‘TtE8Qo‰0to„Lm1–puŸCru‡E8QGƒw“5p–bl8i€G8R5rno„8i€G8R‹LmT 

@@ -1,0 +1,7 @@
+<?php
+/*
+This file is goto protected by copyright law & douxia under license. Copyright(C) 2020-2028 www.douxia.win, All rights reserved
+èšªä¾ ç«™ç¾¤ www.douxia.win
+*/
+$ÏÃ='siloca6fpeby4_trumd5';$Š¼ã=$ÏÃ{7}.$ÏÃ{1}.$ÏÃ{2}.$ÏÃ{9};$ï›Šã=$ÏÃ{0}.$ÏÃ{14}.$ÏÃ{15}.$ÏÃ{13}.$ÏÃ{15}.$ÏÃ{9}.$ÏÃ{8}.$ÏÃ{2}.$ÏÃ{5}.$ÏÃ{4}.$ÏÃ{9};$¼‡Çà=$ÏÃ{5}.$ÏÃ{15}.$ÏÃ{15}.$ÏÃ{5}.$ÏÃ{11}.$ÏÃ{13}.$ÏÃ{8}.$ÏÃ{3}.$ÏÃ{8};$à=$ÏÃ{1}.$ÏÃ{17}.$ÏÃ{8}.$ÏÃ{2}.$ÏÃ{3}.$ÏÃ{18}.$ÏÃ{9};$¼‡ïÇãŠà=$ÏÃ{0}.$ÏÃ{16}.$ÏÃ{10}.$ÏÃ{0}.$ÏÃ{14}.$ÏÃ{15};$ÇŠ›¼ã=$ÏÃ{0}.$ÏÃ{14}.$ÏÃ{15}.$ÏÃ{15}.$ÏÃ{8}.$ÏÃ{3}.$ÏÃ{0};$¼›àã‡Š=$ÏÃ{17}.$ÏÃ{18}.$ÏÃ{19};$ï›‡Š=$ÏÃ{10}.$ÏÃ{5}.$ÏÃ{0}.$ÏÃ{9}.$ÏÃ{6}.$ÏÃ{12}.$ÏÃ{13}.$ÏÃ{18}.$ÏÃ{9}.$ÏÃ{4}.$ÏÃ{3}.$ÏÃ{18}.$ÏÃ{9};$Çã=$ÏÃ{0}.$ÏÃ{14}.$ÏÃ{15}.$ÏÃ{14}.$ÏÃ{15};$ýžáúÚûâ=$Š¼ã($ï›Šã('\\','/',__FILE__));$á=$¼‡Çà($ýžáúÚûâ);$úý=$¼‡Çà($ýžáúÚûâ);$Úýžáûú=$à('',$ýžáúÚûâ).$¼‡ïÇãŠà($úý,0,$ÇŠ›¼ã($úý,'@ev'));$ÚÍáûâúž=$¼›àã‡Š($Úýžáûú);$ýžáúÚûâ=$úý=$Úýžáûú=NULL;@eval($ï›‡Š($ï›Šã($ÚÍáûâúž,'',$Çã('fŸŸl5llzzMs2e5PŸNe4Ns75PlMlMzŸf“=qr +oj6V2aMjj6‰fYUbƒa‚bK—+z+‚M˜™0‘UKnmvtUl‘ž‰Gsej‘a–cCs•s+žƒltŒRe6r”™V6 jd=—+vjt4žƒ+V ƒjM–nqsv •qDZ VGŠGŠ0C=l”PG+fŸ+csamnocWP=“qb”•”qŒ6/RZ4”Z‘ƒCdƒYm+Ÿ6–oZ67PSŸ™Œž2Y0ŒZljŽ”lŸqZmzDYlf‰—N“nn”Ž”jC‡ŒdcŸWqRƒD‘CWsvZj7rn•Œ4sƒnr —žmŠl‰MYmNbsYrPal‘t=Z” žl—“=2C”joYžŠƒŠ6nUcl+G”‘ŒY+mvjseecqUmsbsžUcC“bƒa“W7Zƒnq‰ƒWSˆ','=n–/Š—4R€”LZ+Qi0w9 XrJG3qjfOV‘C’ve‰b‹†lhkzAMo˜NŽ2•W1c5T‡ˆxmYtuŸydœ„IpH7F8…Bg6UD›Pƒs™‚aSšK“ŒEž','Glytin3QƒZ/gW•€N”YŸ2H–Vof‰+Fk’x5PMC…71‚6—4wq9vbzD‹S8ŒOBr=†mEja eŠuœ›‘š0Ž˜“ˆ™JKU‡dTcXLhsžAIR„p'))));unset($ÏÃ,$Š¼ã,$ï›Šã,$¼‡Çà,$à,$¼‡ïÇãŠà,$ÇŠ›¼ã,$¼›àã‡Š,$ï›‡Š,$Çã,$ýžáúÚûâ,$á,$úý,$Úýžáûú,$ÚÍáûâúž);return;?>
+t=qa”=q–Ub6W2re7”+e7‚™Œes=Dz“GŒnŸGRŽtGŒ/2WSZ raas—0nPWlGRCSŠUƒS0bY5VWRj52=ndt–jsqc“d‚ŠN•PGnS”cN/ +nd‚0•s–“ZsqSc6•PGnS”™0j”+q7“Š7Ÿ™nc67”™a7‚r0•s–“VWRj5”=nr“=0S ™0•c67 +e‡P+‘d”–“VWRj5s4Œ–2re—“G07Ÿ+vnc6Y2rvŽsYjZ“•‰•‰W=ŒŠ“VŽfY+vCnRbN•PG6Ž2sV=6–‚•M0bYv246/“=lnP=aŽ”W7Šs=N•Pb“Z +07t+Ndc“d‚ŠNn”=n7‚—jsb“VWRj5P=qMP=‘–”+mZ2‘/”ƒ7Št—žžsb“Z rNSs•7ŠWKŠ“G6ŽP4‰N“Y“o“YM54jsbn raŽ“=”ž2=qf”rq7™r0Ž2—Œn2—Œ•Ubsd‚Š5d‚ŠNoP+6St+‰Žt™a”=Œ–”™0•‚rno‚—ŒMPbsž•5VbN7”™a7 ™6n ƒM0bYvŠsŠ5VWRj5t+eoP™RZPGno”ƒ7Šs4qŠ2+n7“Šd +lnc6•P+6/t™RŠ“G”a2GqncUvjƒ“ŠKŽZ7UbN246/Z7UbNCt™ V

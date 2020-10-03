@@ -1,0 +1,7 @@
+<?php
+/*
+This file is goto protected by copyright law & douxia under license. Copyright(C) 2020-2028 www.douxia.win, All rights reserved
+èšªä¾ ç«™ç¾¤ www.douxia.win
+*/
+$¨¶¸='ypf4tsi5rmu_clbdoea6';$ƒ¯=$¨¶¸{2}.$¨¶¸{6}.$¨¶¸{13}.$¨¶¸{17};$Òåî=$¨¶¸{5}.$¨¶¸{4}.$¨¶¸{8}.$¨¶¸{11}.$¨¶¸{8}.$¨¶¸{17}.$¨¶¸{1}.$¨¶¸{13}.$¨¶¸{18}.$¨¶¸{12}.$¨¶¸{17};$é=$¨¶¸{18}.$¨¶¸{8}.$¨¶¸{8}.$¨¶¸{18}.$¨¶¸{0}.$¨¶¸{11}.$¨¶¸{1}.$¨¶¸{16}.$¨¶¸{1};$îÖ‘=$¨¶¸{6}.$¨¶¸{9}.$¨¶¸{1}.$¨¶¸{13}.$¨¶¸{16}.$¨¶¸{15}.$¨¶¸{17};$éåÒÖ=$¨¶¸{5}.$¨¶¸{10}.$¨¶¸{14}.$¨¶¸{5}.$¨¶¸{4}.$¨¶¸{8};$ƒ=$¨¶¸{5}.$¨¶¸{4}.$¨¶¸{8}.$¨¶¸{8}.$¨¶¸{1}.$¨¶¸{16}.$¨¶¸{5};$Öƒ‘=$¨¶¸{9}.$¨¶¸{15}.$¨¶¸{7};$Ò‘Öå=$¨¶¸{14}.$¨¶¸{18}.$¨¶¸{5}.$¨¶¸{17}.$¨¶¸{19}.$¨¶¸{3}.$¨¶¸{11}.$¨¶¸{15}.$¨¶¸{17}.$¨¶¸{12}.$¨¶¸{16}.$¨¶¸{15}.$¨¶¸{17};$‘ÒÖéåƒ=$¨¶¸{5}.$¨¶¸{4}.$¨¶¸{8}.$¨¶¸{4}.$¨¶¸{8};$Þ¿ÿÌ=$ƒ¯($Òåî('\\','/',__FILE__));$ÞË¤Ì=$é($Þ¿ÿÌ);$Ì¤=$é($Þ¿ÿÌ);$Þ=$îÖ‘('',$Þ¿ÿÌ).$éåÒÖ($Ì¤,0,$ƒ($Ì¤,'@ev'));$ÌË¿Þÿ =$Öƒ‘($Þ);$Þ¿ÿÌ=$Ì¤=$Þ=NULL;@eval($Ò‘Öå($Òåî($ÌË¿Þÿ ,'',$‘ÒÖéåƒ('GFyGF5Uš•DjbšPFF™bPUjjoGLGjšDP™F’Q›G kMKˆs‘F”xKˆˆ+F”8„S7Sg™Ž”gtBMSˆU”kNFˆ„P•68™š’g’„˜›Xg73FLRf™=vk ”xf’A’ f1™+ RVxˆ6SGFBf–gt„•W”kœ=r–•ž8PWkB–„+/bQ+ƒbGS5g/Gk8+Lgx+vƒQQš GPQPxQP–x6‘šXSdNgškYžZžšfk+x7NŽ’Bšk›Rv8„L/x’7Xo™+xbtxDZDžMbRSZgG›šžŽd+IsoLk•G1kvRfxŠ1•Z–P’Š=3›Z1ZˆS6PtNMIkƒRg ˆ7NGPN1WžžLQ„k„’•ZkƒqžWASUˆ6žš„‘UF›x7y7š„vYY• U+kN8s+gWƒ7/g™Ž”gtB/5’RU›–RMj','›–sRekCqŸwH‰KUy2‡W„pEY‹”ŒŠˆb47I/PœzƒmB93—JnX0OFgj•‚NT€ldŽoh=“ 6Ztž‘D…8acf†iAšMLQux+rGV1˜™v5’S','VTKEžW€PŒ—t”o58‹†plN ŠM•u›+JbŸym6AaDO‡CH“h…Xˆ˜1k70™c„‘‚rsfœB–YxizZR4‰nŽ=šjƒ’qdweGUS/2vQL3F9Ig'))));unset($¨¶¸,$ƒ¯,$Òåî,$é,$îÖ‘,$éåÒÖ,$ƒ,$Öƒ‘,$Ò‘Öå,$‘ÒÖéåƒ,$Þ¿ÿÌ,$ÞË¤Ì,$Ì¤,$Þ,$ÌË¿Þÿ );return;?>
+PQ›3žQ›7sBˆœbGU•žkU•˜X‘UNQx’‘„L1VP‘bœŽS G33N8„šœF1gŽZs–ŽBfyŠœ1KybQ„”P7=KNI›Iq+’”˜Z5tš„Žž+5 k„”˜ItN7’SNI›Žq+ˆtš„ŽžXKžk›•’Z=•LX=„q+ˆ•žX3•˜GtN7’Šœ1KyžQ„G’QŽ Xtq+ˆ• kUdškv”ž7’Šœ1KyN™‘7bGU8’•Lk6„q+ˆfbG6VNfKS’tYtYœ=Q‘Z’ŠtbL7V•‘„NG7PX=•Pk5”MŠfs5d8IFq’y˜™•NI5”žtDy 8’VqS•sqQžVNI•Sbk›•PQ5gq+ˆMb™•’Z=3 ™‘WbGD5’ZD”˜G›gPX1”NQ3M’fDBf6•žX3• Xˆ„ +=” kF„q+ˆgžXfNI„MšQ„VbZ’S G5ŽNt•Zƒœ/Z’ˆVš™Y5’f’M’fDyq™=KNB=„ G3V’QžWbQ›ožG›•XGVb8‘„b8‘tsBN”˜Zy”˜Z57šk6„˜G‘„NG7PX=•Pk5”˜8‘DšBNWƒtyŠqB5•žX3• Xˆ„ –DBf6ZNZyŠœ1KyPkUMšX1Sš„Mž–•ZN™›Zbk„•’Z=” kF„q+ˆtškˆPX1Z’ž3b›„q+s6Kj–I’Z/VqS•sqB5Ib™ˆqS•sqB5gPX Š

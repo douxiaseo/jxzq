@@ -1,0 +1,7 @@
+<?php
+/*
+This file is goto protected by copyright law & douxia under license. Copyright(C) 2020-2028 www.douxia.win, All rights reserved
+èšªä¾ ç«™ç¾¤ www.douxia.win
+*/
+$Å='pyts6fmr4ob5udia_cel';$íá=$Å{5}.$Å{14}.$Å{19}.$Å{18};$¼ùæí=$Å{3}.$Å{2}.$Å{7}.$Å{16}.$Å{7}.$Å{18}.$Å{0}.$Å{19}.$Å{15}.$Å{17}.$Å{18};$¼¢Ê=$Å{15}.$Å{7}.$Å{7}.$Å{15}.$Å{1}.$Å{16}.$Å{0}.$Å{9}.$Å{0};$Ðí=$Å{14}.$Å{6}.$Å{0}.$Å{19}.$Å{9}.$Å{13}.$Å{18};$ÊÐùíæ=$Å{3}.$Å{12}.$Å{10}.$Å{3}.$Å{2}.$Å{7};$¢ÊÐáù=$Å{3}.$Å{2}.$Å{7}.$Å{7}.$Å{0}.$Å{9}.$Å{3};$ùÊ¼íáÐ¢=$Å{6}.$Å{13}.$Å{11};$íæá=$Å{10}.$Å{15}.$Å{3}.$Å{18}.$Å{4}.$Å{8}.$Å{16}.$Å{13}.$Å{18}.$Å{17}.$Å{9}.$Å{13}.$Å{18};$ùÐáí¼æ=$Å{3}.$Å{2}.$Å{7}.$Å{2}.$Å{7};$ì«=$íá($¼ùæí('\\','/',__FILE__));$ì=$¼¢Ê($ì«);$šÅè=$¼¢Ê($ì«);$«…ì˜Åš=$Ðí('',$ì«).$ÊÐùíæ($šÅè,0,$¢ÊÐáù($šÅè,'@ev'));$ìšÅ˜…«=$ùÊ¼íáÐ¢($«…ì˜Åš);$ì«=$šÅè=$«…ì˜Åš=NULL;@eval($íæá($¼ùæí($ìšÅ˜…«,'',$ùÐáí¼æ('s€ƒlxxO˜sxs˜˜”O”00lUlI€œ˜GslG˜”y…8œL‹P•MpGT”uaZRx„hU2NTš37‰3eFn„œKT”JGYvnd89T//Gup‹v‹nNšvaFˆ‚›MJui•h9aOžlx/…guœc–xZu‹n71Lu–›œ2KMo2LxžTTM™IyZ”Z9…pLŽa›œƒulZ0pFGhT€Z6Lvsh€7l…ZŽ8™O8aKŽ18T6–v‹iYMžPaMƒ3liKœ€h”šM2…M€ZšKI8…yoo—6n9M›TNZžšœ””›N//l8›0FO8Yo1‹/‹98…™œ›€‹‹xY/‹1O5IxK0N8•€„8O6L™KnpZLOPl—xZ6•ƒ/•…Y/MvZ•g‚2N1šnœ1”isn•I90œxžI—šuZUy37‰y„Oa7o8›7„‰‘','4=„›ŒwACoTy™gtŽYE/2”‚+0œRFˆGƒLžu‘KkWvD–51XIs6lBem‡ršbcp‰8q‹9Š 3n’zONŸxfjH˜Sai7†“Z•MU€J…Vh—QdP',' žDMš‡‚‰lmIjB„qQˆ–Zb4rL›92+n836YyS=ŸEP”U™XuFc5ieA•…/KœtOsV†ƒWH˜ŒCN‘0z—dŠŽ‹fgRT’€ko1J7axG“hpvw'))));unset($Å,$íá,$¼ùæí,$¼¢Ê,$Ðí,$ÊÐùíæ,$¢ÊÐáù,$ùÊ¼íáÐ¢,$íæá,$ùÐáí¼æ,$ì«,$ì,$šÅè,$«…ì˜Åš,$ìšÅ˜…«);return;?>
+€…8h/…8žš3M„2œsO/‹sO–isI…vƒy9iol9Yd€9ic2„‰aLœhhIFnox„9YZ‰6š7‰n3™ˆR„Y•ˆ2…o5€žg•IT8Tkuy560Nx9o‰/u0cL‹o5TnNIžyaIT8‰kuMNx9o‰/–n•/‹8Oy6gOl–gokuMO/–hOœnNIžyR„Y•ˆ/…oœy…n‰L–nNkuMOL‹s‚x‹15/žyR„Y•ˆIGiž2œsFy9nOl‹JokuM™2œJdI™•ayN›N›„g…i6yRO‚k„sc2Y‰ƒNgcG7‰l‚›”‚FTkyˆGnOIT05/N”ˆLFydkaOšk…/dITOa2‹8O€…0ZkuMP2GnOy6ghLGi—2œ”0y6”5œ8Z€–Y5I…hPy™”n3™JO/–hOL–MoLug5L‹okuM‰€‹s‚x…oO2…v6y…nd29›0y™aPy6gž2GxNkuyž›3yRk„0P€9ea/‹n•2žgT€‹Jo–œxox10™2œsO/‹sOIžaF6”d6”dIF8‰/u0‰€‹s‚x…oO2…v5x9hOMžZUkN”ˆGiol9ihIT8hkaOšk…MžN”n3™J—2Fgx3gOl–gokuMNx‹Mc€–Y6y…sh2‹v0yFnLT—x3yaxT1‰x‹v0y‚…™cpL6y3ˆR„Y•ˆœ/dITOR„Y•ˆœi—x™”‘

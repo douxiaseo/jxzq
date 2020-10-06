@@ -65,8 +65,10 @@
                           description.txt   meta标签description描述规则设置
                           preg_replace.txt  指定字符替换规则
                           keywords.txt      meta标签keywords关键字规则设置
-                          one-to-one-url.txt    一对一镜像URL重写规则设置
-                          public-url.txt        泛域名镜像URL重写规则设置
+                          one-to-one-muluurl.txt    一对一镜像目录URL重写规则设置
+                          one-to-one-neiyeurl.txt   一对一镜像内页URL重写规则设置
+                          public-muluurl.txt        泛域名镜像目录URL重写规则设置
+                          public-neiyeurl.txt       泛域名镜像内页URL重写规则设置
                           side.txt          汉字干扰字符设置
                           interfere.txt     网页源代码干扰码设置
                           preg_replace.txt  页面内容指定替换

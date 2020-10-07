@@ -49,6 +49,8 @@
                     public/googlespider-open-close.txt 谷歌蜘蛛来访缓存开启与关闭：Google为开启；off为关闭
                     public/otherspider-open-close.txt  其他蜘蛛（包括人为访问）来访缓存开启与关闭：Other为开启；off为关闭
                     public/tradition-open-close.txt    页面汉字繁体简体切换,繁体:ft 简体:jt 默认:default
+                    public/filter-open-close.txt    页面静态文件过滤开启与关闭：on为开启；off为关闭，如过滤js、iframe框架、jquery等
+                    public/pic-open-close.txt    页面图片替换为本地图片：on为开启；off为关闭
                     
                     public/info/ 目录下为客户资料，随机获取客户资料
                                               webname      网站标题，不限文件个数，随便命名，随机调用，一行一个，每个文档控制在300K以内。

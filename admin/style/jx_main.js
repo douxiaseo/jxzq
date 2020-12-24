@@ -12,6 +12,7 @@ document.getElementById('wtkeywords').style.display="none";
 document.getElementById('dk').style.display="none";
 document.getElementById('jzip').style.display="none";
 document.getElementById('juzi').style.display="none";
+document.getElementById('agent').style.display="none";
 document.getElementById('adduser').style.display="none";
 document.getElementById('deluser').style.display="none";
 document.getElementById('domains').style.display="none";
@@ -66,6 +67,9 @@ function jzip(){
 function juzi(){
 	document.getElementById('juzi').style.display="";
 }
+function agent(){
+	document.getElementById('agent').style.display="";
+}
 function adduser(){
 	document.getElementById('adduser').style.display="";
 }
@@ -117,6 +121,7 @@ function hidder(){
 	document.getElementById('dk').style.display="none";
 	document.getElementById('jzip').style.display="none";
 	document.getElementById('juzi').style.display="none";
+	document.getElementById('agent').style.display="none";
 	document.getElementById('adduser').style.display="none";
 	document.getElementById('deluser').style.display="none";
 	document.getElementById('domains').style.display="none";

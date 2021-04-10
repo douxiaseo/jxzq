@@ -1,2 +1,2 @@
-localhost|http://www.mwenting.com
-127.0.0.1|http://www.duanmeiwen.com
+localhost|http://www.mwenting.com|one
+127.0.0.1|http://www.duanmeiwen.com|two

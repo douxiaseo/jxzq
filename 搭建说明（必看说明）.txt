@@ -4,7 +4,7 @@
 
 	Linux系统 ：所有版本系统;   环境：apache+php 或 Nginx+php
 
-        PHP版本：支持所有的PHP版本运行
+        PHP版本：支持5.4--7.2版本运行
 
 	最低配置1G内存、单核cpu，几十个G的硬盘空间
 
@@ -25,7 +25,7 @@
 
 	域名解析需做泛解析，即解析的时候 填写 * 号
 
-	如douxia.win泛解析为 *.douxia.win
+	如douxia.xyz泛解析为 *.douxia.xyz
 
 三、查看蜘蛛记录
 
@@ -33,6 +33,8 @@
 
 四、目录说明
 	            public/cache/       缓存目录
+                    public/home-cache-open-close.txt   首页缓存开启与关闭：on为开启；off为关闭
+                    public/article-cache-open-close.txt   内页缓存开启与关闭：on为开启；off为关闭
 		    public/domains/	不要带www，不限文件个数，随便命名，随机调用，一行一个，每个文档控制在300K以内。
 		    public/duankou/	计算机端口，生成数字用，默认即可
 		    public/ipaddress/	IP进制，随机调用，一行一个，每个文档控制在300K以内。
@@ -55,21 +57,24 @@
                     public/filter-open-close.txt    页面静态文件过滤开启与关闭：on为开启；off为关闭，如过滤js、iframe框架、jquery等
                     public/pic-open-close.txt    页面图片替换为本地图片：on为开启；off为关闭
                     
-                    public/info/ 目录下为客户资料，随机获取客户资料
+                    public/info/ 目录下为客户资料夹，随机获取客户资料夹
                                               webname      网站标题，不限文件个数，随便命名，随机调用，一行一个，每个文档控制在300K以内。
                                               keywords     客户关键词，不限文件个数，随便命名，随机调用，一行一个，每个文档控制在300K以内。
                                               description  网站描述
                                               jump         跳转js，不限文件个数，随便命名，随机调用。
                                          
-                    meiti/   ---->   one-to-one-meiti.txt   一对一镜像，左边是域名，右边是目标站，随机调用，一行一个，每个文档控制在300K以内。
+                    meiti/   ---->   one-to-one-meiti.txt   1对1镜像，左边是域名、中间为目标站、右边是资料夹，随机调用，一行一个，每个文档控制在300K以内。
                                      public-meiti.txt       随机镜像目标站，随机调用，一行一个，每个文档控制在300K以内。
                     
                     rule/  镜像规则配置，标签自由组合
-                          title.txt         网站标题标签规则配置
+                          title-home.txt       模板制作，首页网站标题标签规则配置
+                          title-home.txt       模板制作，内页网站标题标签规则配置
                           linktitle.txt     链接标题标签规则配置
-                          description.txt   meta标签description描述规则设置
+                          description-home.txt 模板制作，首页meta标签description规则设置
+                          description-article.txt 模板制作，内页meta标签description规则设置
                           preg_replace.txt  指定字符替换规则
-                          keywords.txt      meta标签keywords关键字规则设置
+                          keywords-home.txt    模板制作，首页meta标签keywords规则设置
+                          keywords-home.txt    模板制作，内页meta标签keywords规则设置
                           one-to-one-muluurl.txt    一对一镜像目录URL重写规则设置
                           one-to-one-neiyeurl.txt   一对一镜像内页URL重写规则设置
                           public-muluurl.txt        泛域名镜像目录URL重写规则设置

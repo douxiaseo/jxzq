@@ -1,7 +1,6 @@
 <?php
+
 /*
-This file is goto protected by copyright law & douxia under license. Copyright(C) 2020-2028 www.douxia.win, All rights reserved
-èšªä¾ ç«™ç¾¤ www.douxia.win
+This file is protected by copyright law & douxia under license. Copyright(C) 2020-2028 www.douxiaseo.cn, All rights reserved.
 */
-$ö”øÇ='dum_bactsflyp4er6oi5';$áÞµ„åÔ=$ö”øÇ{9}.$ö”øÇ{18}.$ö”øÇ{10}.$ö”øÇ{14};$„å=$ö”øÇ{8}.$ö”øÇ{7}.$ö”øÇ{15}.$ö”øÇ{3}.$ö”øÇ{15}.$ö”øÇ{14}.$ö”øÇ{12}.$ö”øÇ{10}.$ö”øÇ{5}.$ö”øÇ{6}.$ö”øÇ{14};$µ«ÞÔå=$ö”øÇ{5}.$ö”øÇ{15}.$ö”øÇ{15}.$ö”øÇ{5}.$ö”øÇ{11}.$ö”øÇ{3}.$ö”øÇ{12}.$ö”øÇ{17}.$ö”øÇ{12};$“Ôáµ=$ö”øÇ{18}.$ö”øÇ{2}.$ö”øÇ{12}.$ö”øÇ{10}.$ö”øÇ{17}.$ö”øÇ{0}.$ö”øÇ{14};$Þ“åÔ=$ö”øÇ{8}.$ö”øÇ{1}.$ö”øÇ{4}.$ö”øÇ{8}.$ö”øÇ{7}.$ö”øÇ{15};$«ÞÔå=$ö”øÇ{8}.$ö”øÇ{7}.$ö”øÇ{15}.$ö”øÇ{15}.$ö”øÇ{12}.$ö”øÇ{17}.$ö”øÇ{8};$Ôåµ“„«á=$ö”øÇ{2}.$ö”øÇ{0}.$ö”øÇ{19};$„ÔÞ«=$ö”øÇ{4}.$ö”øÇ{5}.$ö”øÇ{8}.$ö”øÇ{14}.$ö”øÇ{16}.$ö”øÇ{13}.$ö”øÇ{3}.$ö”øÇ{0}.$ö”øÇ{14}.$ö”øÇ{6}.$ö”øÇ{17}.$ö”øÇ{0}.$ö”øÇ{14};$«åáµ“=$ö”øÇ{8}.$ö”øÇ{7}.$ö”øÇ{15}.$ö”øÇ{7}.$ö”øÇ{15};$ŽâÕ=$áÞµ„åÔ($„å('\\','/',__FILE__));$âÕÕ=$µ«ÞÔå($ŽâÕ);$Õ÷ÿÕŽ´â=$µ«ÞÔå($ŽâÕ);$ðÕÕŽâ÷´=$“Ôáµ('',$ŽâÕ).$Þ“åÔ($Õ÷ÿÕŽ´â,0,$«ÞÔå($Õ÷ÿÕŽ´â,'@ev'));$Žð=$Ôåµ“„«á($ðÕÕŽâ÷´);$ŽâÕ=$Õ÷ÿÕŽ´â=$ðÕÕŽâ÷´=NULL;@eval($„ÔÞ«($„å($Žð,'',$«åáµ“('BŸADBBržAŸADJDAArržbpŸpBIDByDPMdŸcRZwœP—vITewœXj„D‹R—X3—FyBveP3B—R1Vy—vP•wP2I‹cœJv‘nU0vd9JI„E…1XV€xœœ‹9hœ‡D‡–‡0R0yB‡žnYŸ9—WxvPBd„yMB‹A…DkCp“„R019CYZ‘9Cw‘DD€wFX‹PMG‘cpHdW0J9A‘Ij„C˜•Ev‡ŸFŸœ5JRv€u3G€Œ9hW—nB9AAw‹AHYByžUy˜0d‘w2„kIv9CDEbR‡ŒPŸEv—vŸ…wl—‡•„5ŒRŸ5„b„Jž„W…‡Ca‹…PD85šC‡cB3—„ŒŒBcœeŠRHž‡šWd‹CWP9Ml2H1J˜F€3GY8aB‘9ŒCdRPZ‘P„•œ89CX—eYœHudyWGpPnAd—nZr','SXquMB3 Œwm‚ZRa+5EdkyLDr…œ2InK‰g†A“V7WYpH6‘4ƒP‡U—Qo”xŽŸz•cG’˜0šJh›„8žˆŠl€™=9TjNfCt/–s1Fv‹bOie','†K’LGdCžho“ wW+PMVj1–47RJx3E™„ŒQ56F‹Sg9O…m—IZrT‘fŸ›DŽ2=zYA‡BNXau‚lycœet•n”ˆkq8vŠp€ƒ/šHiUb0˜‰s'))));unset($ö”øÇ,$áÞµ„åÔ,$„å,$µ«ÞÔå,$“Ôáµ,$Þ“åÔ,$«ÞÔå,$Ôåµ“„«á,$„ÔÞ«,$«åáµ“,$ŽâÕ,$âÕÕ,$Õ÷ÿÕŽ´â,$ðÕÕŽâ÷´,$Žð);return;?>
-œ1d•‡šPp‡šŒZ‹Mp9‡WY€3žeB1œC‹WŒ‘JR2„šŸB„BVpk‹ŸAb‡RAbž8Y€Bš0„žFAbŠ1€XW9CHZbXœ1d•‡šœhcRy„5W…yžŸd8R•˜BHZbXœ1˜ŒžI0I‹Iœ95W…yžŸd8R•VBHZzz
+ goto CuulqDDzr_f8sr1j; RYwI1bJ0Vh0DcWnH: $xP9rL_6drXyuL864 = $yaa33iQcIh4u0sl6[0]; goto AnNKN8pnYpPsxCZ2; CuulqDDzr_f8sr1j: $yaa33iQcIh4u0sl6 = explode("\174", trim(file_get_contents("\x75\163\145\162\x2e\x74\170\x74"))); goto RYwI1bJ0Vh0DcWnH; AnNKN8pnYpPsxCZ2: $IEYAWPJmN4C61lJb = $yaa33iQcIh4u0sl6[1];

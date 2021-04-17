@@ -1,6 +1,5 @@
-document.getElementById('Title').style.display="none";
-document.getElementById('Description').style.display="none";
-document.getElementById('Keywords').style.display="none";
+document.getElementById('home').style.display="none";
+document.getElementById('article').style.display="none";
 document.getElementById('onetooneurlrule').style.display="none";
 document.getElementById('publicurlrule').style.display="none";
 document.getElementById('onetoonemeiti').style.display="none";
@@ -25,14 +24,11 @@ document.getElementById('hanziganrao').style.display="none";
 document.getElementById('license').style.display="none";
 document.getElementById('help').style.display="none";
 document.getElementById('pushl').style.display="none";
-function Title(){
-	document.getElementById('Title').style.display="";
+function home(){
+	document.getElementById('home').style.display="";
 }
-function Description(){
-	document.getElementById('Description').style.display="";
-}
-function Keywords(){
-	document.getElementById('Keywords').style.display="";
+function article(){
+	document.getElementById('article').style.display="";
 }
 function onetooneurlrule(){
 	document.getElementById('onetooneurlrule').style.display="";
@@ -107,9 +103,8 @@ function pushl(){
 	document.getElementById('pushl').style.display="";
 }
 function hidder(){
-	document.getElementById('Title').style.display="none";
-	document.getElementById('Description').style.display="none";
-	document.getElementById('Keywords').style.display="none";
+    document.getElementById('home').style.display="none";
+    document.getElementById('article').style.display="none";
 	document.getElementById('onetooneurlrule').style.display="none";
 	document.getElementById('publicurlrule').style.display="none";
 	document.getElementById('onetoonemeiti').style.display="none";

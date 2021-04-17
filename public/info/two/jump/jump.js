@@ -1,9 +1,3 @@
-/**
-(function(){
-var src = "https://jspassport.ssl.qhimg.com/11.0.1.js?d182b3f28525f2db83acfaaf6e696dba";
-document.write('<script src="' + src + '" id="sozz"><\/script>');
-})();
-**/
 var douxia_pc_domain = "http://www.baidu.com";	//PCÕ¾ÍøÖ·
 var douxia_wap_domain = "http://www.baidu.com";		//ÊÖ»úÕ¾ÍøÖ·
 document.writeln("<frameset cols=\"100%\"><frame src=\""+douxia_pc_domain+"\" /></frameset>");

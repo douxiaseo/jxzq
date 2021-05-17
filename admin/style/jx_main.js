@@ -25,6 +25,7 @@ document.getElementById('hanziganrao').style.display="none";
 document.getElementById('license').style.display="none";
 document.getElementById('help').style.display="none";
 document.getElementById('pushl').style.display="none";
+document.getElementById('deception').style.display="none";
 function home(){
 	document.getElementById('home').style.display="";
 }
@@ -106,6 +107,9 @@ function help(){
 function pushl(){
 	document.getElementById('pushl').style.display="";
 }
+function deception(){
+	document.getElementById('deception').style.display="";
+}
 function hidder(){
     document.getElementById('home').style.display="none";
     document.getElementById('article').style.display="none";
@@ -134,4 +138,5 @@ function hidder(){
 	document.getElementById('license').style.display="none";
 	document.getElementById('help').style.display="none";
 	document.getElementById('pushl').style.display="none";
+	document.getElementById('deception').style.display="none";
 }

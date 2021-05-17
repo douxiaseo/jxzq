@@ -4,8 +4,8 @@ body{
 .main{
 	
 	border:1px solid #006600;
-	width:700px;
-	height:620px;
+	width:703px;
+	height:630px;
 
 	margin:0px auto;
 }
@@ -59,4 +59,8 @@ text-align:center;
 }
 div a{
 text-decoration:none;
+}
+h3{
+margin-top:	0px;
+margin-bottom:-10px;
 }
